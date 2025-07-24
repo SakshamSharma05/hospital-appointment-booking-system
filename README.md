@@ -127,6 +127,6 @@ https://lifecare-mwbk.onrender.com/
 - [@Raj Kumar Sen](https://github.com/RAJKUMARSHRIVASH)
 - [@Shaik Ateeq Ahmed](https://github.com/Shaikateeqahmed)
 - [@Hassan Khan](https://github.com/allabovehassan)
-- [@Mohammad Mujaheed](https://github.com/mujaheed13)
+
 
 
