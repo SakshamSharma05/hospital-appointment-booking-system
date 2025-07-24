@@ -118,15 +118,3 @@ https://lifecare-mwbk.onrender.com/
 ![drawSQL-lifecare-export-2023-04-03](https://user-images.githubusercontent.com/112754547/229438041-993e6356-22cd-49b0-8905-6867cd4f36e9.png)
 
 
-
-
-
-## Authors
-
-- [@Abhay Singh](https://github.com/DanteHaxor)
-- [@Raj Kumar Sen](https://github.com/RAJKUMARSHRIVASH)
-- [@Shaik Ateeq Ahmed](https://github.com/Shaikateeqahmed)
-- [@Hassan Khan](https://github.com/allabovehassan)
-- [@Mohammad Mujaheed](https://github.com/mujaheed13)
-
-
